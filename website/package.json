@@ -50,7 +50,7 @@
 		"bcryptjs": "^2.4.3",
 		"dompurify": "^3.2.5",
 		"dotenv": "^16.5.0",
-		"express": "^5.1.0",
+		"express": "^5.2.0",
 		"jose": "^6.0.10",
 		"lucide-svelte": "^0.503.0",
 		"nanoid": "^5.1.5",
